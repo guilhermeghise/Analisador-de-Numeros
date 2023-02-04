@@ -1,2 +1,3 @@
-# Analisador-de-Numeros
+# Analisador de Numeros
 O projeto de analisador de números foi criado durante o curso de JavaScript "Curso em Vídeo". Este projeto consiste em uma página web que permite ao usuário inserir um número e receber informações sobre ele.
+O analisador de números é capaz de identificar a quantidade de números adicionados na lista, o maior e o menor valor informado, a soma e a média entre todos os números digitados, sendo uma excelente oportunidade para os estudantes de JavaScript aprenderem sobre as ferramentas e conceitos básicos da linguagem, bem como praticar suas habilidades de codificação e resolução de problemas.
